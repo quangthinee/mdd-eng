@@ -1,0 +1,6 @@
+code-test
+baseline
+data/l2arctic
+kaldi
+*.zip
+*.ark
